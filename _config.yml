@@ -25,11 +25,13 @@ title: Chuito el de Bayamón
 tagline: El decano de los cantores
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Esta exhibición digital reúne una selección de fotografías y documentos del archivo de Jesús Sánchez Erazo, conocido como Chuito el de Bayamón y una de las figuras más importantes de la música jíbara puertorriqueña. A través de imágenes de sus presentaciones artísticas, momentos familiares, portadas discográficas y reconocimientos públicos, la muestra ofrece un recorrido por la trayectoria de un trovador cuya obra contribuyó a preservar y difundir la tradición de la décima y la cultura jíbara de Puerto Rico.<br><br>
+description: "Esta exhibición digital reúne una selección de fotografías y documentos del archivo de Jesús Sánchez Erazo, conocido como Chuito el de Bayamón y una de las figuras más importantes de la música  puertorriqueña. A través de imágenes de sus presentaciones artísticas, momentos familiares, portadas discográficas y reconocimientos públicos, la muestra ofrece un recorrido por la trayectoria de un trovador cuya obra contribuyó a preservar y difundir la tradición de la décima y la cultura jíbara de Puerto Rico.<br><br>
 
-El material de la muestra forma parte de un archivo mucho más amplio, compuesto por aproximadamente 18.000 documentos, entre manuscritos, grabaciones, fotografías y materiales impresos. Esta exhibición busca acercar al público a la vida y legado de Chuito. Así mismo, destaca la importancia de la preservación digital como una herramienta para ampliar el acceso al patrimonio cultural puertorriqueño."
+El material de la muestra forma parte de un archivo mucho más amplio, compuesto por aproximadamente 18.000 documentos, entre manuscritos, grabaciones, fotografías y materiales impresos. Esta exhibición busca acercar al público a la vida y legado de Chuito. Así mismo, destaca la importancia de la preservación digital como una herramienta para ampliar el acceso al patrimonio cultural puertorriqueño.<br><br> This digital exhibition brings together a selection of photographs and documents from the archive of Jesús Sánchez Erazo, known as Chuito el de Bayamón, one of the most important figures in Puerto Rican music. Through images of his artistic performances, family moments, album covers and public recognitions, the exhibition offers a journey through the career of a troubadour whose work helped preserve and promote the tradition of the <em>décima</em> and Puerto Rico’s jíbaro culture.<br><br>
+
+The materials featured in the exhibition are part of a much larger archive consisting of approximately 18,000 documents, including manuscripts, recordings, photographs and printed materials. This exhibition seeks to bring the Chuito's life and legacy to a wider audience. At the same time, it highlights the importance of digital preservation as a tool for expanding access to Puerto Rican cultural heritage."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Recovering the US Hispanic Literary Heritage Program
 
 ##########
 # COLLECTION SETTINGS
