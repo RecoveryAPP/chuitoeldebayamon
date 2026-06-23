@@ -15,8 +15,6 @@
 baseurl: /chuitoeldebayamon
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
-include:
-  - objects
 
 ##########
 # SITE SETTINGS
