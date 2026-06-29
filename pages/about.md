@@ -21,6 +21,20 @@ credits: true
 <p>In collaboration with the donor, the project prioritizes both access and preservation. While the full collection is being digitized as part of a long-term preservation effort, the CollectionBuilder exhibit makes a portion of the materials available as soon as possible in order to increase visibility and support research, teaching and public engagement. </p>
 <p>This approach allows the project to share the cultural and historical significance of Chuito’s work in the near term, while continuing the more extensive work of processing, digitizing and describing the complete archive.</p>
 
+# 2. Making the Case
+<p>Making the Chuito el de Bayamón digital exhibit is grounded in the mission and ongoing work of the Recovering the US Hispanic Literary Heritage Program (Recovery), an international program dedicated to locating, preserving and making available Hispanic culture of the United States in its written form since colonial times until 1980. Recovery is a program of Arte Público Press, where digital initiatives are developed through the US Latino Digital Humanities Center (USLDH) to expand access to Latino archival data through technology.</p>
+<p>Within this framework, the Chuito el de Bayamón collection was positioned as both a preservation priority and an important contribution to ongoing efforts to document and share Puerto Rican cultural history. Its recent acquisition created momentum to make Puerto Rican materials publicly available, aligning with organizational commitments to access, visibility and community engagement.</p>
+<p>The CollectionBuilder exhibit was proposed as a lightweight, scalable solution that could showcase selected materials while the full collection undergoes digitization and processing. This approach allowed the project to demonstrate immediate impact, support research and teaching, as well as to build a foundation for future expansion of the digital archive.</p>
+# 3. How you did it
+<p>The project was carried out by a collaborative team at Recovery / USLDH, including project leadership and students. In addition to graduate student involvement, an undergraduate student participated in the project through the Research for Aspiring Coogs in the Humanities (REACH) program at the University of Houston. Through this year-long, mentored research initiative, the student contributed to the project as part of a broader effort to provide hands-on experience in humanities research and digital scholarship. A high school student also contributed through the SERJobs Bank of America Summer Youth Program, gaining early exposure to archival and digital humanities work while supporting project tasks.
+</p>
+<p>Digitization followed Recovery’s established best practices, with an emphasis on high-resolution imaging and careful handling of fragile manuscripts. Metadata was created in both Spanish and English to preserve linguistic authenticity while also supporting broader accessibility and discovery.</p>
+<p>The project used CollectionBuilder to publish the collection online. This platform was selected for its lightweight infrastructure, flexibility and ability to transform CSV-based metadata into a public-facing digital exhibit, allowing the team to make materials available while the full collection continues to be processed.
+</p>
+<p>Challenges included deciphering handwritten materials, particularly in cases where legibility and spelling varied.</p>
+<p><b>People</b></p>
+<p><i>Recovery/USLDH team</i></p>
+<p><li></li></p>
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
