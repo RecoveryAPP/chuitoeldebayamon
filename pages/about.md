@@ -92,6 +92,6 @@ For more information on best practices for US Latino digital humanities work, pl
 
 The Chuito el de Bayamón (Jesús Sánchez Erazo) Collection consists of four boxes of documents that contain a substantial part of the poetic production of the prominent Puerto Rican folk troubadour. The collection includes handwritten notebooks in which he wrote his compositions, mainly in the form of décimas, some of them accompanied by musical notation. The majority of the décimas are on the themes of jíbara culture and love, extolling the natural and cultural wealth of Puerto Rico, as well as those dedicated to commenting on and disseminating news of national and international interest, which Chuito would then broadcast on national radio. The Recovery Program project aims to digitize this valuable archive for preservation and create the corresponding metadata in order to facilitate access to the cultural legacy of Chuito el de Bayamón and promote its research by academics, educators, students and the broader community. In this way, the Recovery Program seeks to increase the visibility of Chuito as an icon of Puerto Rican culture.
 
-{% include feature/image.html objectid="CHBA_OVS_01;CHBA_OVS_08;CHBA_OVS_024" %}
+{% include feature/image.html objectid="CHBA_OVS_08;CHBA_OVS_14;CHBA_OVS_010" %}
 
 
