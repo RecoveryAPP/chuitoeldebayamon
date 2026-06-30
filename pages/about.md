@@ -141,7 +141,7 @@ Tiffany López: edición de imágenes
 
 El US Latino Digital Humanities Center (USLDH) aplicó sus Best Practices durante el desarrollo de este proyecto: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau y Linda García Merchant. US Latino Digital Humanities Best Practices. Arte Público Press, octubre de 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities).
 
-El proyecto se fundamenta en el Puerto Rican Literature Project (PLPR), iniciativa que hizo posible la adquisición y el desarrollo de la Colección Chuito el de Bayamón: [https://plpr.uh.edu/s/en/page/home](https://plpr.uh.edu/s/en/page/home)
+El proyecto se basa en el Proyecto de la literatura puertorriqueña (PLPR), una iniciativa que hizo posible la adquisición y el desarrollo de la Colección de Chuito el de Bayamón: [[https://plpr.uh.edu/s/en/page/home](https://plpr.uh.edu/s/en/page/home)](https://plpr.uh.edu/s/es/page/inicio)
 
 El contexto de la donación del archivo por Violeta Sánchez Nieves también se documenta públicamente en su reflexión: "Una carta a Benito Antonio Martínez Ocasio de la nieta de Chuito el de Bayamón", Periódico El Adoquín, 30 de octubre de 2025, [https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/](https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/).
 
