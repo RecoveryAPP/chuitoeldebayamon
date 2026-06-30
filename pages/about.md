@@ -25,7 +25,7 @@ In collaboration with the donor, the project prioritizes both access and preserv
 
 This approach allows the project to share the cultural and historical significance of Chuito’s work in the near term, while continuing the more extensive work of processing, digitizing and describing the complete archive.
 
-# 2. Making the Case
+# 2. Making the case
 Making the Chuito el de Bayamón digital exhibit is grounded in the mission and ongoing work of the Recovering the US Hispanic Literary Heritage Program (Recovery), an international program dedicated to locating, preserving and making available Hispanic culture of the United States in its written form since colonial times until 1980. Recovery is a program of Arte Público Press, where digital initiatives are developed through the US Latino Digital Humanities Center (USLDH) to expand access to Latino archival data through technology.
 
 Within this framework, the Chuito el de Bayamón collection was positioned as both a preservation priority and an important contribution to ongoing efforts to document and share Puerto Rican cultural history. Its recent acquisition created momentum to make Puerto Rican materials publicly available, aligning with organizational commitments to access, visibility and community engagement.
@@ -92,5 +92,6 @@ For more information on best practices for US Latino digital humanities work, pl
 
 The archive of Chuito el de Bayamón (Jesús Sánchez Erazo) consists of four boxes of documents that contain a substantial part of the poetic production of the prominent Puerto Rican folk troubadour. The collection includes handwritten notebooks in which he wrote his compositions, mainly in the form of décimas, some of them accompanied by musical notation. The majority of the décimas are on the themes of jíbara culture and love, extolling the natural and cultural wealth of Puerto Rico, as well as those dedicated to commenting on and disseminating news of national and international interest, which Chuito would then broadcast on national radio. The Recovery Program project aims to digitize this valuable archive for preservation and create the corresponding metadata in order to facilitate access to the cultural legacy of Chuito el de Bayamón and promote its research by academics, educators, students and the broader community. In this way, the Recovery Program seeks to increase the visibility of Chuito as an icon of Puerto Rican culture.
 
+{% include feature/image.html objectid="CHBA_OVS_01;CHBA_OVS_08;CHBA_OVS_024" %}
 
 
