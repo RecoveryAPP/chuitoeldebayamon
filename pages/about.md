@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/RecoveryAPP/chuitoeldebayamon/main/objects/CHBA_OVS_21.jpg" %}
+{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/RecoveryAPP/chuitoeldebayamon/main/objects/CHBA_OVS_25.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;1. Why do it;2. Making the case;3. How you did it;4. Share the docs;5. Understanding use;6. Who supports use;7. Things people should know;8. What’s next;Sobre la colección;1 y 2: Por qué era necesario hacerlo y justificación;3. Cómo lo hiciste;4. Comparte los documentos;5. Acerca del uso de la colección;6. Quién apoya el uso;7. Algunas cosas que la gente debería saber;8. Qué sigue" %}
+{% include feature/nav-menu.html sections="About the Collection;1. Why do it;2. Making the case;3. How you did it;4. Share the docs;5. Understanding use;6. Who supports use;7. Things people should know;8. What’s next;Sobre la colección;1. Por qué era necesario hacerlo; 2. Justificación;3. Cómo lo hiciste;4. Comparte los documentos;5. Acerca del uso de la colección;6. Quién apoya el uso;7. Algunas cosas que la gente debería saber;8. Qué sigue" %}
 
 ## About the Collection
 # 1. Why do it
