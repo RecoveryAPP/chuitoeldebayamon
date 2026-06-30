@@ -32,9 +32,35 @@ credits: true
 <p>The project used CollectionBuilder to publish the collection online. This platform was selected for its lightweight infrastructure, flexibility and ability to transform CSV-based metadata into a public-facing digital exhibit, allowing the team to make materials available while the full collection continues to be processed.
 </p>
 <p>Challenges included deciphering handwritten materials, particularly in cases where legibility and spelling varied.</p>
-<p><b>People</b></p>
-<p><i>Recovery/USLDH team</i></p>
-<p><li></li></p>
+
+***People***
+
+- Gabriela Baeza Ventura, PhD: ideation, donor relations
+- Carolina Villarroel, PhD, CA: ideation, donor relations  
+- Lorena Gauthereau, PhD: ideation, supervision, training, editing, protocols
+- Mikaela Selley, CA: supervision, preservation, protocols
+- Carolina Rojas: scanning, metadata, metadata translation, curation
+- Julian Milo Hewlett: scanning, basic metadata
+- Miriam Damaris Maldonado: donor relations, scanning, metadata 
+- Tiffany López: image editing
+
+# 4. Share the docs
+
+USLDH employed its Best Practices during the elaboration of this work: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau and Linda García Merchant. "US Latino Digital Humanities Best Practices." Arte Público Press, Oct. 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities).
+
+The project is grounded in the Puerto Rican Literature Project (PLPR), which supported the acquisition and development of the Chuito el de Bayamón collection. Visit PLPR at: [https://plpr.uh.edu/s/en/page/home](https://plpr.uh.edu/s/en/page/home)
+
+Context for the donation of the archive by Violeta Sánchez Nieves is also documented publicly in her reflection on the process: “Una carta a Benito Antonio Martínez Ocasio de la nieta de Chuito el de Bayamón,” Periódico el Adoquín, 30 octubre 2025, [https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/](https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/).
+
+This About section follows Collections as Data facets: [https://collectionsasdata.github.io/](https://collectionsasdata.github.io/)
+
+Metadata was created in both Spanish and English, following Dublin Core. It is available for download on the site’s Data menu tab.
+
+This site is generated using CollectionBuilder-GH, a project to create a free and simple digital collection using GitHub Pages from a CSV of collection metadata and a folder of JPG images or PDF documents.
+
+Find the full details for creating your own collection site, via the CollectionBuilder Documentation: [https://collectionbuilder.github.io/cb-docs/](https://collectionbuilder.github.io/cb-docs/)
+
+# 5. Understanding use
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
