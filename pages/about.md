@@ -62,9 +62,9 @@ Context for the donation of the archive by Violeta Sánchez Nieves is also docum
 
 This About section follows Collections as Data facets: [https://collectionsasdata.github.io/](https://collectionsasdata.github.io/)
 
-Metadata was created in both Spanish and English, following Dublin Core. It is available for download on the site’s Data menu tab.
+Metadata was created in both Spanish and English, following Dublin Core. It is available for download on the site’s [Data](https://recoveryapp.github.io/chuitoeldebayamon/data.html) menu tab.
 
-This site is generated using CollectionBuilder-GH, a project to create a free and simple digital collection using GitHub Pages from a CSV of collection metadata and a folder of JPG images or PDF documents.
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using GitHub Pages from a CSV of collection metadata and a folder of JPG images or PDF documents.
 
 Find the full details for creating your own collection site, via the CollectionBuilder Documentation: [https://collectionbuilder.github.io/cb-docs/](https://collectionbuilder.github.io/cb-docs/)
 
@@ -84,14 +84,13 @@ The physical collection is currently being processed at Recovering the US Hispan
 
 # 7. Things people should know
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The cultural context of US Latino collections matters. Metadata should reflect the specific traditions and meanings embedded in the materials. Attention to language is essential. Maintaining Spanish-language descriptions supports authenticity and access.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+For more information on best practices for US Latino digital humanities work, please refer to: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau and Linda García Merchant. "US Latino Digital Humanities Best Practices." Arte Público Press, Oct. 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities).
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+# 8. What's next
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+The archive of Chuito el de Bayamón (Jesús Sánchez Erazo) consists of four boxes of documents that contain a substantial part of the poetic production of the prominent Puerto Rican folk troubadour. The collection includes handwritten notebooks in which he wrote his compositions, mainly in the form of décimas, some of them accompanied by musical notation. The majority of the décimas are on the themes of jíbara culture and love, extolling the natural and cultural wealth of Puerto Rico, as well as those dedicated to commenting on and disseminating news of national and international interest, which Chuito would then broadcast on national radio. The Recovery Program project aims to digitize this valuable archive for preservation and create the corresponding metadata in order to facilitate access to the cultural legacy of Chuito el de Bayamón and promote its research by academics, educators, students and the broader community. In this way, the Recovery Program seeks to increase the visibility of Chuito as an icon of Puerto Rican culture.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
+
