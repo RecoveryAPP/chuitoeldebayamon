@@ -46,6 +46,7 @@ Challenges included deciphering handwritten materials, particularly in cases whe
 - Gabriela Baeza Ventura, PhD: ideation, donor relations
 - Carolina Villarroel, PhD, CA: ideation, donor relations  
 - Lorena Gauthereau, PhD: ideation, supervision, training, editing, protocols, CollectionBuilder exhibit development and management, data uploads, page edits
+- Miriam Damaris Maldonado: acquisition, donor relations, scanning, metadata 
 - Mikaela Selley, CA: supervision, preservation, protocols
 
 *Graduate Research Fellows*
