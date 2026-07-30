@@ -45,11 +45,11 @@ Challenges included deciphering handwritten materials, particularly in cases whe
 *Staff*
 - Gabriela Baeza Ventura, PhD: ideation, donor relations
 - Carolina Villarroel, PhD, CA: ideation, donor relations  
-- Lorena Gauthereau, PhD: ideation, supervision, training, editing, protocols
+- Lorena Gauthereau, PhD: ideation, supervision, training, editing, protocols, CollectionBuilder exhibit development and management, data uploads, page edits
 - Mikaela Selley, CA: supervision, preservation, protocols
 
 *Graduate Research Fellows*
-- Carolina Rojas: scanning, metadata, translation, curation
+- Carolina Rojas: scanning, metadata, metadata translation, curation, CollectionBuilder exhibit setup support, data uploads
 
 *Student Interns*
 - Tiffany López (2024 SER-Bank of American Summer Youth Program): image editing
@@ -69,7 +69,7 @@ This About section follows Collections as Data facets: [https://collectionsasdat
 
 Metadata was created in both Spanish and English, following [Dublin Core](https://www.dublincore.org/about/) and the [Digital Library Federation (DLF) Metadata Quality Benchmarks](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/index.html). The metadata for this project is available for download on the site’s [Data](https://recoveryapp.github.io/chuitoeldebayamon/data.html) menu tab.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using GitHub Pages from a CSV of collection metadata and a folder of JPG images or PDF documents.
+This site is generated using CollectionBuilder-GH, a project to create a free and simple digital collection using GitHub Pages from a CSV of collection metadata and a folder of JPG images or PDF documents.: [https://collectionbuilder.github.io/gh/](https://collectionbuilder.github.io/gh/)
 
 Find the full details for creating your own collection site, via the CollectionBuilder Documentation: [https://collectionbuilder.github.io/cb-docs/](https://collectionbuilder.github.io/cb-docs/)
 
@@ -133,14 +133,21 @@ Entre los principales desafíos figuró la interpretación de documentos manuscr
 
 **Personas involucradas en el proyecto**
 
-Gabriela Baeza Ventura, PhD: conceptualización, adquisición del archivo
-Carolina Villarroel, PhD, CA: conceptualización, adquisición del archivo
-Lorena Gauthereau, PhD: conceptualización, supervisión, capacitación, edición, desarrollo de protocolos
-Mikaela Selley, CA: supervisión, preservación, desarrollo de protocolos
-Carolina Rojas: digitalización, metadata, traducción, curaduría
-Julian Milo Hewlett: digitalización, metadata básica
-Miriam Damaris Maldonado: adquisición del archivo, digitalización, metadata
-Tiffany López: edición de imágenes
+*Personal*
+- Gabriela Baeza Ventura, PhD: conceptualización, adquisición del archivo
+- Carolina Villarroel, PhD, CA: conceptualización, adquisición del archivo
+- Lorena Gauthereau, PhD: conceptualización, supervisión, capacitación, edición, desarrollo de protocolos, desarrollo y gestión del sitio de exhibición en CollectionBuilder, carga de datos, edición de páginas
+- Mikaela Selley, CA: supervisión, preservación, desarrollo de protocolos
+- - Miriam Damaris Maldonado: adquisición del archivo, digitalización, metadata
+
+*Becaria de investigación de posgrado*
+- Carolina Rojas: digitalización, metadata, traducción, curaduría
+
+*Estudiantes en prácticas*
+- Tiffany López (2024 SER-Bank of America Summer Youth Program): edición de imágenes
+- Julian Milo Hewlett (2025-2026 Research for Aspiring Coogs in the Humanities Program): escaneo, metadatos básicos
+- Tobías Cortés (interno 2026 del Arts Connect Houston’s Careers in the Arts Catalyst Program): escaneo
+- Hailey Reyes (interna 2026 del USLDH Summer Internship): escaneo, metadatos básicos
 
 # 4. Comparte los documentos
 
