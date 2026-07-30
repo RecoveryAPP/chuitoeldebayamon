@@ -138,8 +138,8 @@ Entre los principales desafíos figuró la interpretación de documentos manuscr
 - Gabriela Baeza Ventura, PhD: conceptualización, adquisición del archivo
 - Carolina Villarroel, PhD, CA: conceptualización, adquisición del archivo
 - Lorena Gauthereau, PhD: conceptualización, supervisión, capacitación, edición, desarrollo de protocolos, desarrollo y gestión del sitio de exhibición en CollectionBuilder, carga de datos, edición de páginas
+- Miriam Damaris Maldonado: adquisición del archivo, digitalización, metadata
 - Mikaela Selley, CA: supervisión, preservación, desarrollo de protocolos
-- - Miriam Damaris Maldonado: adquisición del archivo, digitalización, metadata
 
 *Becaria de investigación de posgrado*
 - Carolina Rojas: digitalización, metadata, traducción, curaduría
