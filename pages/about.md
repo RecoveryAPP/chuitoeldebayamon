@@ -170,7 +170,7 @@ Entre los principales desafíos figuró la interpretación de documentos manuscr
 
 -La estructura de esta sección “Acerca de” sigue las recomendaciones del proyecto Collections as Data: [https://collectionsasdata.github.io/](https://collectionsasdata.github.io/).
 
--La metadata fue creada en español e inglés siguiendo los estándares de [Dublin Core](https://www.dublincore.org/about/)
+- La metadata fue creada en español e inglés siguiendo los estándares de [Dublin Core](https://www.dublincore.org/about/)
 - La metadata cumple con los estándares de referencia del [Digital Library Federation (DLF)](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/index.htm). 
 -La metadata está disponible para descargar en la sección Data [Data](https://recoveryapp.github.io/chuitoeldebayamon/data.html) del sitio.
 
