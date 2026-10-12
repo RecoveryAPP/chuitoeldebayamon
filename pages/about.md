@@ -83,15 +83,15 @@ Find the full details for creating your own collection site, via the CollectionB
 
 The project anticipates multiple forms of use:
 
-- Research use: Scholars in Puerto Rican studies, ethnomusicology, journalism and literary studies. The inclusion of downloadable metadata supports computational approaches, including text analysis and thematic mapping.
-- Pedagogical use: Educators can incorporate the materials into courses on Puerto Rican literature, US Latino literature, oral traditions and digital humanities.
-- Public use: Community members can explore materials connected to Puerto Rican identity and cultural memory.
+- **Research use**: Scholars in Puerto Rican studies, ethnomusicology, journalism and literary studies. The inclusion of downloadable metadata supports computational approaches, including text analysis and thematic mapping.
+- **Pedagogical use**: Educators can incorporate the materials into courses on Puerto Rican literature, US Latino literature, oral traditions and digital humanities.
+- **Public use**: Community members can explore materials connected to Puerto Rican identity and cultural memory.
 
 # 6. Who supports use
 
 Use of the collection is supported by the broader infrastructure of Arte Público Press, Recovering the US Hispanic Literary Heritage and the US Latino Digital Humanities Center (USLDH). 
 
-The physical collection was processed at Recovering the US Hispanic Literary Heritage Program and transferred to the University of Houston Libraries Special Collections. 
+The physical collection was processed at Recovering the US Hispanic Literary Heritage Program.
 
 # 7. Things people should know
 
@@ -101,7 +101,7 @@ For more information on best practices for US Latino digital humanities work, pl
 
 # 8. What's next
 
-After the transfer of the physical Chuito el de Bayamón [Jesús Sánchez Erazo] Collection to the University of Houston's Special Collections, Recovery will promote both the digital exhibit and the collection to increase visibility to scholars, students and community members.
+Recovery will promote both the digital exhibit and the collection to increase visibility to scholars, students and community members.
 
 {% include feature/image.html objectid="CHBA_OVS_08;CHBA_OVS_09;CHBA_OVS_10" %}
 
@@ -109,15 +109,15 @@ After the transfer of the physical Chuito el de Bayamón [Jesús Sánchez Erazo]
 
 # 1. Por qué era necesario hacerlo
 
-La Colección Chuito el de Bayamón documenta la vida y obra del trovador puertorriqueño Jesús Sánchez Erazo, conocido como Chuito el de Bayamón (1900-1979), una de las figuras más importantes de la música jíbara y la tradición de la décima en Puerto Rico. Esta exhibición digital reúne una selección de fotografías y documentos de su archivo personal. A través de imágenes de sus presentaciones artísticas, momentos familiares, portadas discográficas y reconocimientos públicos, la muestra ofrece un recorrido por la trayectoria de un trovador cuya obra contribuyó a preservar y difundir la tradición de la décima y la cultura jíbara puertorriqueña.
+La Colección Chuito el de Bayamón documenta la vida y obra del trovador puertorriqueño Jesús Sánchez Erazo, conocido como Chuito el de Bayamón (1900-1979), figura central de la tradición de la música jíbara y la décima. Esta exhibición digital presenta una selección de fotografías y documentos de la colección que destacan su vida y trayectoria.
 
-Las composiciones de Chuito, escritas en su mayoría en forma de décimas, exploran temas como la vida rural, el amor, la política, la religión y la identidad puertorriqueña. Su obra, dedicada a cultivar y enriquecer la tradición de la décima puertorriqueña, continúa vigente y sigue resonando entre nuevas generaciones. Un ejemplo reciente es la canción "PIToRRO DE COCO" (2024) de Bad Bunny, que incorpora un fragmento de la composición de Chuito "Si Yo Fuera Alcalde", publicada originalmente en el álbum Chuito el de Bayamón, El gran trovador, producido por el Instituto de Cultura Puertorriqueña en 1972.
+La colección está compuesta por cuatro cajas que contienen cuadernos manuscritos, libretos radiales y documentos personales que documentan la vida creativa y profesional de Chuito. Entre los materiales más significativos se encuentran más de veinte libretas manuscritas en las que compuso sus décimas, algunas acompañadas de notación musical. La colección también conserva cientos de libretos radiales que abordan una amplia variedad de temas, incluyendo la cultura jíbara, la riqueza natural y cultural de Puerto Rico, el amor, la sociedad, la política, los deportes, la religión y acontecimientos nacionales e internacionales, incluyendo la Segunda Guerra Mundial, que Chuito transmitió por radio.
 
-La exhibición digital Chuito el de Bayamón surge del trabajo continuo del Puerto Rican Literature Project (PLPR), financiado por la Fundación Mellon. Como parte de esta iniciativa, Recovering the US Hispanic Literary Heritage de la Universidad de Houston estableció una relación con la donante Violeta Sánchez Nieves, lo que condujo a la adquisición del archivo.
+La música de Chuito, que emplea la décima tradicional puertorriqueña, continúa presente en la cultura popular contemporánea. Un ejemplo es la canción “PIToRRO DE COCO” (2024) de Bad Bunny, que incluye un fragmento de la canción de Chuito “Si Yo Fuera Alcalde”, originalmente grabada en el álbum *Chuito el de Bayamón, El gran trovador*, producido por el Instituto de Cultura Puertorriqueña en 1972.
 
-En colaboración con la donante, el proyecto prioriza tanto el acceso como la preservación. Mientras la colección completa se digitaliza como parte de un esfuerzo de preservación a largo plazo, la exhibición desarrollada con CollectionBuilder pone a disposición del público una selección de materiales lo antes posible con el fin de aumentar su visibilidad y apoyar la investigación, la enseñanza y la participación comunitaria.
+La exhibición digital Chuito el de Bayamón surge del trabajo continuo del [Proyecto de la literatura puertorriqueña (PLPR)](https://plpr.uh.edu/s/es/page/inicio), financiado por la Fundación Mellon. El Proyecto de literatura puertorriqueña es el esfuerzo de un equipo de escritores, académicos, traductores y humanistas digitales que trabajan en colaboración con el Centro de Humanidades Digitales US Latino/ Digital Humanities Center (USLDH) y el Programa de Recuperación de la herencia literaria hispana en los EEUU / Recovering the US Hispanic Literary Heritage (Recovery) de Arte Público Press (APP), con el generoso apoyo de la Fundación Mellon. La adquisición de la Colección Chuito el de Bayamón amplió estos esfuerzos al incorporar un importante archivo de la historia cultural puertorriqueña al acervo de Recovery. La colección fue adquirida gracias a los esfuerzos de Miriam Damaris Maldonado por establecer y fortalecer vínculos con la comunidad, quien se desempeñó como administradora del Proyecto PLPR de 2022 a 2025 y cultivó una relación con la donante Violeta Sánchez Nieves, nieta de Chuito el de Bayamón.
 
-Este enfoque permite dar a conocer el valor cultural e histórico de la obra de Chuito, mientras continúa el proceso integral de organización, digitalización y descripción del archivo.
+Esta exhibición digital prioriza tanto el acceso como la preservación. Mientras la colección completa se somete a procesos de digitalización y procesamiento archivístico como parte de un esfuerzo de preservación a largo plazo, la exhibición en CollectionBuilder ofrece una selección representativa de materiales que resaltan la importancia cultural e histórica de la obra de Chuito y apoyan la investigación, la enseñanza y la participación del público. El procesamiento, la digitalización y la descripción continua del archivo completo ampliarán las oportunidades de acceso y estudio en el futuro.
 
 # 2. Justificación
 
@@ -125,13 +125,15 @@ La creación de la exhibición digital Chuito el de Bayamón responde a la misi�
 
 Dentro de este marco, la Colección Chuito el de Bayamón se identificó tanto como una prioridad de preservación como una contribución significativa a los esfuerzos por documentar y difundir la historia cultural de Puerto Rico. Su reciente adquisición generó el impulso necesario para poner estos materiales a disposición del público, en concordancia con el compromiso institucional de promover el acceso, la visibilidad y la vinculación con las comunidades.
 
-La exhibición en CollectionBuilder se planteó como una solución ágil y escalable que permitiera presentar una selección de materiales mientras la colección completa continúa su proceso de digitalización y tratamiento archivístico. Este enfoque permitió generar un impacto inmediato, apoyar la investigación y la enseñanza y sentar las bases para la futura expansión del archivo digital.
+Le herramienta de código abierto CollectionBuilder se planteó como una solución ágil y escalable que permitiera presentar una selección de materiales mientras la colección completa continúa su proceso de digitalización y tratamiento archivístico. Este enfoque permitió generar un impacto inmediato, apoyar la investigación y la enseñanza y sentar las bases para la futura expansión del archivo digital.
 
 # 3. Cómo lo hiciste
 
-El proyecto fue desarrollado por un equipo colaborativo de Recovery y el USLDH, integrado por personal académico y estudiantes. Además de la participación de una estudiante de posgrado, un estudiante de licenciatura colaboró mediante el programa Research for Aspiring Coogs in the Humanities (REACH) de la Universidad de Houston. A lo largo de un año de investigación con mentoría, el estudiante contribuyó al proyecto como parte de un esfuerzo más amplio para ofrecer experiencia práctica en investigación en humanidades y estudios digitales. Asimismo, una estudiante de escuela superior participó mediante el SERJobs Bank of America Summer Youth Program, adquiriendo experiencia temprana en archivos y humanidades digitales mientras apoyaba diversas tareas del proyecto.
+El sitio de exhibición digital fue desarrollado mediante un esfuerzo colaborativo del Programa Recuperación de la Herencia Literaria Hispana en los EEUU. (Recovery) y el Centro de Humanidades Digitales US Latino (USLDH), con la participación del equipo de liderazgo del proyecto, personal y estudiantes. La adquisición de la colección fue posible gracias a los esfuerzos de divulgación y vinculación de Miriam Damaris Maldonado, quien se desempeñó como administradora del Proyecto PLPR de 2022 a 2025 y cultivó una relación con la donante Violeta Sánchez Nieves, nieta de Chuito el de Bayamón. Tras la adquisición, Sánchez Nieves colaboró con el equipo al proporcionar información contextual sobre los materiales, su organización y su importancia.
 
-La digitalización siguió las mejores prácticas establecidas por Recovery, con énfasis en la captura de imágenes de alta resolución y en el manejo cuidadoso de manuscritos frágiles. La metadata se elaboraró tanto en español como en inglés para preservar la autenticidad lingüística y, al mismo tiempo, facilitar un mayor acceso y descubrimiento de los materiales.
+El personal de Recovery / USLDH, como también estudiantes de posgrado, licenciatura y escuela secundaria han contribuido a la exhibición digital mediante el procesamiento archivístico, la digitalización, el escaneo, la edición de imágenes, la creación de metadatos y otros aspectos del desarrollo de colecciones digitales. Las experiencias estudiantiles fueron apoyadas por una variedad de programas, incluyendo las ayudantías de investigación de posgrado de la Universidad de Houston (UH), el programa Research for Aspiring Coogs in the Humanities (REACH) de UH, la pasantía de verano del US Latino Digital Humanities Center (USLDH), el programa SERJobs Bank of America Summer Youth Program y el programa Careers in the Arts Catalyst Program (CACP) de Arts Connect Houston. Estas experiencias brindan a los estudiantes una exposición práctica a los flujos de trabajo archivísticos, las prácticas de preservación y la investigación digital, a la vez que amplían el acceso a los materiales de Chuito el de Bayamón.
+
+La digitalización siguió las mejores prácticas establecidas por Recovery / USLDH, con énfasis en la captura de imágenes de alta resolución y en el manejo cuidadoso de manuscritos frágiles. La metadata se elaboraró tanto en español como en inglés para preservar la autenticidad lingüística y, al mismo tiempo, facilitar un mayor acceso y descubrimiento de los materiales.
 
 El proyecto utilizó CollectionBuilder para publicar la colección en línea. Esta plataforma fue seleccionada por su infraestructura ligera, su flexibilidad y su capacidad para transformar metadatos en formato CSV en una exhibición digital pública, permitiendo compartir los materiales mientras continúa el procesamiento integral de la colección.
 
@@ -143,11 +145,14 @@ Entre los principales desafíos figuró la interpretación de documentos manuscr
 - Gabriela Baeza Ventura, PhD: conceptualización, adquisición del archivo
 - Carolina Villarroel, PhD, CA: conceptualización, adquisición del archivo
 - Lorena Gauthereau, PhD: conceptualización, supervisión, capacitación, edición, desarrollo de protocolos, desarrollo y gestión del sitio de exhibición en CollectionBuilder, carga de datos, edición de páginas
-- Miriam Damaris Maldonado: adquisición del archivo, digitalización, metadata
+- Miriam Damaris Maldonado (2022-2025): adquisición del archivo, digitalización, metadata
 - Mikaela Selley, CA: supervisión, preservación, desarrollo de protocolos
 
 *Becaria de investigación de posgrado*
-- Carolina Rojas: digitalización, metadata, traducción, curaduría
+- Saraí Cantú: escaneo
+- Carolina Rojas: escaneo, metadatos, traducción de metadatos, curaduría, apoyo en la configuración del sitio de exhibición en CollectionBuilder, carga de datos, protocolos
+- Julia Saenz Lorduy: escaneo
+- Soe Sánchez Monje: escaneo
 
 *Estudiantes en prácticas*
 - Tiffany López (2024 SER-Bank of America Summer Youth Program): edición de imágenes
@@ -157,42 +162,36 @@ Entre los principales desafíos figuró la interpretación de documentos manuscr
 
 # 4. Comparte los documentos
 
-El US Latino Digital Humanities Center (USLDH) aplicó sus Best Practices durante el desarrollo de este proyecto: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau y Linda García Merchant. US Latino Digital Humanities Best Practices. Arte Público Press, octubre de 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities).
+-Se aplicaron mejores prácticas de USLDH durante el desarrollo de este proyecto: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau y Linda García Merchant. US Latino Digital Humanities Best Practices. Arte Público Press, octubre de 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities)
 
-El proyecto se basa en el Proyecto de la literatura puertorriqueña (PLPR), una iniciativa que hizo posible la adquisición y el desarrollo de la Colección de Chuito el de Bayamón: [[https://plpr.uh.edu/s/en/page/home](https://plpr.uh.edu/s/en/page/home)](https://plpr.uh.edu/s/es/page/inicio)
+-La exhibición digital se basa en el Proyecto de la literatura puertorriqueña (PLPR), una iniciativa que hizo posible la adquisición y el desarrollo de la Colección de Chuito el de Bayamón: [[https://plpr.uh.edu/s/en/page/home](https://plpr.uh.edu/s/en/page/home)](https://plpr.uh.edu/s/es/page/inicio)
 
-El contexto de la donación del archivo por Violeta Sánchez Nieves también se documenta públicamente en su reflexión: "Una carta a Benito Antonio Martínez Ocasio de la nieta de Chuito el de Bayamón", Periódico El Adoquín, 30 de octubre de 2025, [https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/](https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/).
+-El contexto de la donación del archivo por Violeta Sánchez Nieves también se documenta públicamente en su reflexión: "Una carta a Benito Antonio Martínez Ocasio de la nieta de Chuito el de Bayamón", Periódico El Adoquín, 30 de octubre de 2025, [https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/](https://eladoquintimes.com/2025/10/30/una-carta-a-benito-antonio-martinez-ocasio-de-la-nieta-de-chuito-el-de-bayamon/).
 
-La estructura de esta sección Acerca de sigue las recomendaciones del proyecto Collections as Data: [https://collectionsasdata.github.io/](https://collectionsasdata.github.io/).
+-La estructura de esta sección “Acerca de” sigue las recomendaciones del proyecto Collections as Data: [https://collectionsasdata.github.io/](https://collectionsasdata.github.io/).
 
-La metadata fue creada en español e inglés siguiendo los estándares de [Dublin Core](https://www.dublincore.org/about/) y [Digital Library Federation (DLF)](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/index.htm). La metadata está disponibles para descarga en la sección Data [Data](https://recoveryapp.github.io/chuitoeldebayamon/data.html) del sitio.
+-La metadata fue creada en español e inglés siguiendo los estándares de [Dublin Core](https://www.dublincore.org/about/)
+- La metadata cumple con los estándares de referencia del [Digital Library Federation (DLF)](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/index.htm). 
+-La metadata está disponible para descargar en la sección Data [Data](https://recoveryapp.github.io/chuitoeldebayamon/data.html) del sitio.
 
-Este sitio fue desarrollado con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un proyecto que permite crear colecciones digitales gratuitas mediante GitHub Pages a partir de metadatos en formato CSV y archivos de imágenes JPG o documentos PDF.
+-Este sitio fue desarrollado con [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), un proyecto que permite crear colecciones digitales gratuitas mediante GitHub Pages a partir de metadatos en formato CSV y archivos de imágenes JPG o documentos PDF.
 
 # 5. Acerca del uso de la colección
 
 Se prevé que la colección tenga múltiples usos:
 
--Investigación: para especialistas en estudios puertorriqueños, etnomusicología y estudios literarios. La disponibilidad de metadata descargable facilita además enfoques computacionales, como análisis de texto y cartografía temática.
--Docencia: el material puede incorporarse a cursos sobre literatura puertorriqueña, literatura latina de Estados Unidos, tradiciones orales y humanidades digitales.
--Uso público: cualquier persona interesada podrá explorar materiales relacionados con la identidad puertorriqueña y la memoria cultural.
+- **Investigación**: para especialistas en estudios puertorriqueños, etnomusicología, periodismo y estudios literarios. La disponibilidad de metadata descargable facilita además enfoques computacionales, como análisis de texto y cartografía temática.
+- **Docencia**: el material puede incorporarse a cursos sobre literatura puertorriqueña, literatura latina de Estados Unidos, tradiciones orales y humanidades digitales.
+- **Uso público**: cualquier persona interesada podrá explorar materiales relacionados con la identidad puertorriqueña y la memoria cultural.
 
 # 6. Quién apoya el uso
 
-Esta colección digital es apoyada por el Centro US Latino Digital Humanities(USLDH)/Recovering the US Hispanic Literary Heritage Program.
-
-La colección física se encuentra actualmente en proceso de organización en Recovering the US Hispanic Literary Heritage Program de la Universidad de Houston. Posteriormente será transferida a las Special Collections de las Bibliotecas de la Universidad de Houston.
-
-La colección consta de cuatro cajas que reúnen una parte significativa de la producción poética del destacado trovador folclórico puertorriqueño. Incluye cuadernos manuscritos donde Chuito escribió sus composiciones, principalmente en forma de décimas, algunas acompañadas de notación musical. La mayoría de estas décimas abordan la cultura jíbara y el amor, exaltan la riqueza natural y cultural de Puerto Rico o comentan acontecimientos de interés nacional e internacional que posteriormente Chuito difundía por la radio puertorriqueña.
+Esta colección digital es apoyada por el Centro de Humanidades Digitales US Latino(USLDH) / Recuperación de la herencia literaria hispana en los Estados Unidos (Recovery). La colección física se procesó en Recovery de la Universidad de Houston.
 
 # 7. Algunas cosas que la gente debería saber
 
 El contexto cultural de las colecciones latinas en Estados Unidos es fundamental para su interpretación. La metadata debe reflejar las tradiciones y significados específicos presentes en los materiales. Asimismo, la atención al idioma resulta esencial. Mantener las descripciones en español favorece tanto la autenticidad como el acceso.
 
-Para conocer más sobre las mejores prácticas para proyectos de humanidades digitales latinas, consulte: Baeza Ventura, Gabriela, Carolina Villarroel, Lorena Gauthereau y Linda García Merchant. US Latino Digital Humanities Best Practices. Arte Público Press, octubre de 2021, [https://artepublicopress.com/digital-humanities](https://artepublicopress.com/digital-humanities).
-
 # 8. Qué sigue
 
-La Colección Chuito el de Bayamón [Jesús Sánchez Erazo] está compuesta por cuatro cajas de documentos que contienen una parte sustancial de la producción poética del destacado trovador folclórico puertorriqueño. La colección incluye cuadernos manuscritos en los que escribió sus composiciones, principalmente en forma de décimas, algunas acompañadas de notación musical. La mayoría de estas décimas giran en torno a la cultura jíbara y el amor, exaltan la riqueza natural y cultural de Puerto Rico o comentan y difunden noticias de interés nacional e internacional que Chuito posteriormente transmitía por la radio del país.
-
-El proyecto de Recuperación de la herencia literaria hispana en los Estados Unidos (Recovery) tiene como objetivo digitalizar este valioso archivo para garantizar su preservación y crear la metadata correspondiente con el fin de facilitar el acceso al legado cultural de Chuito el de Bayamón y promover su estudio por parte de investigadores, docentes, estudiantes y el público en general. De esta manera, el programa busca fortalecer la visibilidad de Chuito como uno de los grandes referentes de la cultura puertorriqueña.
+Recovery dará a conocer tanto la exposición digital como la colección para aumentar su visibilidad entre investigadores, estudiantes y miembros de la comunidad.
